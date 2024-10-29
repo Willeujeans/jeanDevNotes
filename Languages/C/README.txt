@@ -1,0 +1,1 @@
+C is a lower level language used for writing operating systems and code that needs to interact with hardware for speed.
