@@ -1,0 +1,29 @@
+body {
+    --h1-color: rgb(158, 234, 139);
+    --h2-color: rgb(243, 234, 109);
+    --h3-color: rgb(248, 133, 118);
+    --h4-color: rgb(241, 99, 99);
+    --h5-color: rgb(255, 41, 41);
+    --h1-weight: 400;
+    --h2-weight: 400;
+    --h3-weight: 400;
+    --h4-weight: 400;
+    --h5-weight: 400;
+    --h6-weight: 400;
+}
+
+strong,
+.cm-s-obsidian span.cm-formatting-strong,
+.cm-s-obsidian span.cm-strong {
+    font-weight: 400;
+    background-color: rgba(255, 255, 255, 0.05);
+    color: rgb(191, 129, 233);
+    padding: 1px 3px;
+    border-radius: 5px;
+}
+
+i,
+em,
+span.cm-em {
+    color: rgba(255, 255, 255, 0.5);
+}

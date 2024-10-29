@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a47c5307548e26b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1c39a021b73c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d6072bdfbfec4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/System Calls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Calls"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d65e77e5decb707",
+    "type": "split",
+    "children": [
+      {
+        "id": "5835d65e3b61907e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b4b018092cd4fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1cf4dda7c2d1d681",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f2d3c32e2a88200",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20e1f3bfb1216a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb130aab1fba905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f4a2053651dae23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems/System Calls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for System Calls"
+            }
+          },
+          {
+            "id": "60fa8c526bbe2871",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems/System Calls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from System Calls"
+            }
+          },
+          {
+            "id": "d909cfb76a735d9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dcea14f0a6a9370c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems/System Calls.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of System Calls"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "63d6072bdfbfec4f",
+  "lastOpenFiles": [
+    "Operating Systems/Operating Systems.md",
+    "Operating Systems/Memory.md",
+    "Operating Systems/Processes/Interprocess Communication.md",
+    "Operating Systems/Processes/Process.md",
+    "Operating Systems/Processes/Process Scheduling.md",
+    "Operating Systems/Processes/Process Synchronization.md",
+    "Operating Systems/Processes/Resource Allocation Graph.md",
+    "Operating Systems/System Calls.md",
+    "Operating Systems/Operating System Permissions.md",
+    "Algorithms/Traveling Salesman Problem.md",
+    "Algorithms/Bellman-Ford.md",
+    "Tour.md",
+    "Untitled.md",
+    "Distance.md"
+  ]
+}
