@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "System Calls"
             }
+          },
+          {
+            "id": "7b311ae3ea325360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D2Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "D2Report"
+            }
+          },
+          {
+            "id": "2bd88d9d1389f545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,21 +191,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d6072bdfbfec4f",
+  "active": "2bd88d9d1389f545",
   "lastOpenFiles": [
+    "Operating Systems/System Calls.md",
     "Operating Systems/Operating Systems.md",
+    "Algorithms/Graph Theory.md",
+    "Lab Traveling Salesperson Problem README.md",
+    "D2Report.md",
+    "3dPrinter.jpg",
+    "Hardware.jpg",
     "Operating Systems/Memory.md",
     "Operating Systems/Processes/Interprocess Communication.md",
     "Operating Systems/Processes/Process.md",
     "Operating Systems/Processes/Process Scheduling.md",
     "Operating Systems/Processes/Process Synchronization.md",
     "Operating Systems/Processes/Resource Allocation Graph.md",
-    "Operating Systems/System Calls.md",
     "Operating Systems/Operating System Permissions.md",
     "Algorithms/Traveling Salesman Problem.md",
     "Algorithms/Bellman-Ford.md",
     "Tour.md",
-    "Untitled.md",
     "Distance.md"
   ]
 }

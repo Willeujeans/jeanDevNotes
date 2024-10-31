@@ -16,6 +16,7 @@ A Graph $G=(V,E)$ is a set of Vertices ($V$) and edges ($E$) where each Edge $(u
 - **Connectivity**: Graphs are connected when all Vertices are connected, Vertices are connected if an edge exists between them. A Vertex is _incident_ to another Vertex if its connected to another Vertex.
 - **Path**: The order in which Vertices are visited. Node1 -> Node2 -> Node3
 - **Cycle**: A path that starts and ends at the same Vertex.
+- **Hamiltonian circuit**: A closed loop that starts and ends at the same node touching each node once.
 
 ---
 # Graphs
